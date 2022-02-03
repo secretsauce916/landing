@@ -8,7 +8,7 @@
 }
 .cover::before {
     content:"";
-    background: url('/../images/slowmo.gif');
+    background: url('../images/slowmo.gif');
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 666px;
